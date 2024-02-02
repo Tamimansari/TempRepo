@@ -8,6 +8,28 @@
         "date_of_commit": "2 - 2 - 2024",
         "time_of_commit": "10:56:55"
       }
+    ],
+    "name2.txt": [
+      [
+        {
+          "msg": "namechanged",
+          "type_of_commit": "Refactor",
+          "fileName": "name2.txt",
+          "date_of_commit": "2 - 2 - 2024",
+          "time_of_commit": "11:15:43"
+        }
+      ]
+    ],
+    "name4.txt": [
+      [
+        {
+          "msg": "stylefunction",
+          "type_of_commit": "Style_changes",
+          "fileName": "name4.txt",
+          "date_of_commit": "2 - 2 - 2024",
+          "time_of_commit": "11:15:52"
+        }
+      ]
     ]
   }
 }
