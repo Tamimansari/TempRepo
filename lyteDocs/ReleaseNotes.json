@@ -8,6 +8,16 @@
         "date_of_commit": "2 - 2 - 2024",
         "time_of_commit": "12:13:35"
       }
-    ]
+    ],
+    "name.txt": [
+      {
+        "msg": "changes",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "name.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "12:14:41"
+      }
+    ],
+    "name2.txt": []
   }
 }
