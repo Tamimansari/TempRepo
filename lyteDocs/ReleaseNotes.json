@@ -7,6 +7,13 @@
         "fileName": "name3.txt",
         "date_of_commit": "2 - 2 - 2024",
         "time_of_commit": "12:26:46"
+      },
+      {
+        "msg": "new ones",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "name3.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "12:27:33"
       }
     ],
     "name6.txt": [
@@ -15,7 +22,7 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "name6.txt",
         "date_of_commit": "2 - 2 - 2024",
-        "time_of_commit": "12:26:47"
+        "time_of_commit": "12:27:35"
       }
     ]
   }
