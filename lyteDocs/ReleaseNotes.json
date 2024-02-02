@@ -1,0 +1,13 @@
+{
+  "1.0.0": {
+    "package.json": [
+      {
+        "msg": "new v",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "package.json",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "12:13:35"
+      }
+    ]
+  }
+}
