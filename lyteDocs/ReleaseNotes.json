@@ -70,6 +70,24 @@
           "time_of_commit": "11:19:00"
         }
       ]
+    ],
+    "name6.txt": [
+      [
+        {
+          "msg": "t testing",
+          "type_of_commit": "Bug_Fix",
+          "fileName": "name6.txt",
+          "date_of_commit": "2 - 2 - 2024",
+          "time_of_commit": "11:21:24"
+        },
+        {
+          "msg": "stylepurpose",
+          "type_of_commit": "Style_changes",
+          "fileName": "name6.txt",
+          "date_of_commit": "2 - 2 - 2024",
+          "time_of_commit": "11:22:06"
+        }
+      ]
     ]
   }
 }
