@@ -22,7 +22,16 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "name6.txt",
         "date_of_commit": "2 - 2 - 2024",
-        "time_of_commit": "12:27:35"
+        "time_of_commit": "16:56:34"
+      }
+    ],
+    "name2.txt": [
+      {
+        "msg": "c2",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "name2.txt",
+        "date_of_commit": "2 - 2 - 2024",
+        "time_of_commit": "16:56:27"
       }
     ]
   }
